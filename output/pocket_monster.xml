@@ -1,0 +1,15 @@
+<mxGraphModel>
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    <mxCell id="4" value="鼠标双击输入" style="node;image=/static/images/ele/ele_peer.png" vertex="1" data="{&quot;id&quot;:1,&quot;element&quot;:{&quot;id&quot;:3,&quot;icon&quot;:&quot;ele_peer.png&quot;,&quot;title&quot;:&quot;Peer&quot;},&quot;normalType&quot;:&quot;&quot;}" parent="1">
+      <mxGeometry x="490" y="120" width="100" height="135" as="geometry"/>
+    </mxCell>
+    <mxCell id="5" value="Peer" style="constituent=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontColor=#e6a23c" vertex="1" connectable="0" parent="4">
+      <mxGeometry x="0.1" y="0.65" width="80" height="16" relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="6" style="normalType;constituent=1;fillColor=none;image=/static/images/normal-type/forest.png" vertex="1" connectable="0" parent="4">
+      <mxGeometry x="0.05" y="0.05" width="109" height="14" relative="1" as="geometry"/>
+    </mxCell>
+  </root>
+</mxGraphModel>
